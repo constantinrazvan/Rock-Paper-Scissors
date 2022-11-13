@@ -1,0 +1,4 @@
+class playerOne:
+    def __init__(self):
+        self.username_playerOne = input('What is your name player one? \n')
+        self.player_one_score = 0
