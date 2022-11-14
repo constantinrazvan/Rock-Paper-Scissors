@@ -12,7 +12,6 @@ os.system("clear")
 username_playerTwo = input(str("What is your name Player Two? \n"))
 os.system("clear")
 
-############################## 
 def startGame(): 
     print("Game started!")
     
